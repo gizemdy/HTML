@@ -1,8 +1,4 @@
 <html>
-<head>
-<title>
-Tanımlama Listeler
-</title>
 <body>
 <font face="verdana" size="4" color="red"> Tanımlama Listeler </font>
 <d1>
@@ -14,5 +10,4 @@ Tanımlama Listeler
 <dd><font size="2" color="black">Matematik ile ilgili şeyleri burda bulabilirsiniz...</font></d>
 </d1>
 </body>
-</head>
 </html>

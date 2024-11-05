@@ -1,0 +1,17 @@
+<body bgcolor="FFcc00">
+<font type="verdana" size="4" color="#FFFFFF"> 
+<ol><h2><u>Günler</u></h2>
+<font color="#0000FF">
+<li>Pazartesi</li>
+<li>Salı</li>
+<li>Çarşamba</li>
+<li>Perşembe</li>
+<li>Cuma</li>
+</font>
+<font color="FF0000">
+<li>Cumartesi</li>
+<li>Pazar</li>
+</font>
+</ol>
+</font>
+</body>

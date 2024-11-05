@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+Listeler
+</title>
+<body>
+<ul type="disc">
+<li> Kimya
+<ul type="square">
+<li> Organik</li>
+<li> İnorganik</li>
+<li>Analitik</li>
+</ul>
+</li>
+<li> Fizik
+<ul type="square">
+<li> Dinamik</li>
+<li> Statik</li>
+</ul>
+</li>
+<li> Matematik
+<ul type="square">
+<li> Sayılar</li>
+<li> Diğer </li>
+<ul type="circle">
+<li> Türev</li>
+<li> İntegral</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+</body>
+</head>
+</html>

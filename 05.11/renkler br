@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+BR ETİKETİ & Renkler ve Mevsimler
+</title>
+<body>
+<!---
+ptesi
+salı  çarşamba
+<br>ocak <br> şubat <br> mart <br> nisan  ---->
+<br>
+<font face="tahoma" size="5" color="#008000"> ilkbahar 
+
+</font>
+<br>
+<font face="verdana" size="5" color="#ff0000"> yaz </font>
+<br>
+<font face="arial" size="5" color="#ffff00"> sonbahar </font>
+<br>
+<font face="comic" size="5" color="#0000ff"> kış </font>
+</body>
+</head>
+</html>
